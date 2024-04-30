@@ -79,7 +79,7 @@ def recognize_faces(frame, known_face_encodings, known_face_names, known_enrollm
 
 def update_excel(sno, name, enrollment_number, course, present):
     now = datetime.now()
-    excel_file_path = f"attendance_{now.strftime('%Y-%m-%d_%H-%M-%S')}.xlsx"
+    excel_file_path = f"attendance_{now.strftime('%Y-%m-%d_%H')}.xlsx"
 
     # Check if the Excel file exists, create a new one if not
     try:
