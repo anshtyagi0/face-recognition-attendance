@@ -1,0 +1,4 @@
+opencv-python==4.10.0.84
+pymongo==4.8.0
+pandas==2.2.2
+face-recognition==1.3.0
