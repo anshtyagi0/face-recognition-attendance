@@ -39,6 +39,6 @@ This project is only for education purpose and not for commercial use. We will n
 
 
 ## Credit
-[Ansh Tyagi](https://www.linkedin.com/in/anshtyagi0/)
+[Ansh Tyagi](https://www.linkedin.com/in/anshtyagi0/)<br>
 [Aakash Yadav](https://www.linkedin.com/in/akash-yadav-a695a4314/)
 ##
